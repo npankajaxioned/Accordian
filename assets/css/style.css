@@ -142,7 +142,9 @@ margin: 50px auto;
   font-size: 20px;
   float: right;
 }
-
+.active .panel {
+  display: block;
+}
 
 .accordian-item.active .accordian-title { background-color: #CCC; }
 
