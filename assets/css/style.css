@@ -111,6 +111,11 @@ li {
 /*=================================
   main styling starts here
 =================================*/
+h1{
+  margin: 50px 0 30px;
+  text-align: center;
+}
+
 #accordian {
 width: 80%;
 max-width: 900px;
