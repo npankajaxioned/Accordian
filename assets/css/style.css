@@ -117,7 +117,10 @@ max-width: 900px;
 margin: 50px auto;
 }
 
-.accordian-item{ display: block;}
+.accordian-item{ 
+  display: block;
+  margin-top: 15px;
+}
 
 .accordian-title {
   padding: 15px 20px;
