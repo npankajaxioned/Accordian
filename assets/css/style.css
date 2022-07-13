@@ -130,14 +130,14 @@ margin: 50px auto;
 }
 
 .accordian-title::after{
-  content: '\2b';
+  content: '\f078';
   font-family: "fontAwesome";
   font-size: 20px;
   float: right;
 }
 
 .accordian-item.active .accordian-title::after{ 
-  content: "\f068";
+  content: "\f00d";
   font-family: "fontAwesome";
   font-size: 20px;
   float: right;
@@ -154,7 +154,7 @@ margin: 50px auto;
 }
 
 .panel {
-  padding: 0 20px;
+  padding: 18px 20px;
   border-left: 1px solid #EEE;
   border-right: 1px solid #EEE;
   display: none;
